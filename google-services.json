@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "805077796317",
+    "firebase_url": "https://alertsmarkers.firebaseio.com",
+    "project_id": "alertsmarkers",
+    "storage_bucket": "alertsmarkers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805077796317:android:d71387f595592151",
+        "android_client_info": {
+          "package_name": "com.sbhacksiii.bet.alerts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805077796317-qait2m8bkg7oo4t09h6ilfe695gpcmcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidDxrbUOEz9MMMDixcD9ig4PJ_I8F0ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805077796317:android:662109c1607c3cd7",
+        "android_client_info": {
+          "package_name": "com.example.eduardo.locationservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805077796317-qait2m8bkg7oo4t09h6ilfe695gpcmcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidDxrbUOEz9MMMDixcD9ig4PJ_I8F0ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
